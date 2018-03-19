@@ -2,6 +2,7 @@
 1.Program exercise related to the Machine Learning course (lectured by Andrew Ng) on Coursera.
 
 2.Review and self-check
+	
 	chapter 2,4,7 -- Linear Regression
 		1.Cost function (with Regularization)
 		2.Gradient descent
